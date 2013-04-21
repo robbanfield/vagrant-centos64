@@ -20,7 +20,7 @@ HTTP approach
 * On the OS boot screen hit tab to get the boot options and enter:
  
 ``` 
-ks https://raw.github.com/robbanfield/vagrant-centos64/master/CentOS64.cfg 
+ks http://<yourwebserver>/CentOS64.cfg 
 ```
 * Get your favourite caffeinated beverage
 * Perform manual steps
