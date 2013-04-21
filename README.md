@@ -21,5 +21,5 @@ Gotchas
 
 Manual steps you need to do
 ---------------------------
-* Does not install the VBoxAdditions
+* Install the VBoxLinuxAdditions
 * Update UseDNS to no in /etc/ssh/sshd_config
