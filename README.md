@@ -17,7 +17,7 @@ HTTP approach
 
 * Copy CentOS64.cfg to a webserver that will be accessible to the VM (keep in mind you need to be using NAT)
 * Build the base box in VirtualBox (see source links for details)
-* On the OS boot screen hit tab to get the OS options and enter:
+* On the OS boot screen hit tab to get the boot options and enter:
  
 ``` 
 ks https://raw.github.com/robbanfield/vagrant-centos64/master/CentOS64.cfg 
