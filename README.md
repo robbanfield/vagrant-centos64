@@ -28,4 +28,6 @@ Manual steps you need to do
 
 Sources
 =======
-https://github.com/okfn/ckan/wiki/How-to-Create-a-CentOS-Vagrant-Base-Box
+* https://github.com/okfn/ckan/wiki/How-to-Create-a-CentOS-Vagrant-Base-Box
+* http://fedoraproject.org/wiki/Anaconda/Kickstart
+* http://docs-v1.vagrantup.com/v1/docs/base_boxes.html
