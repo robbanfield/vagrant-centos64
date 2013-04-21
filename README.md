@@ -23,3 +23,9 @@ Manual steps you need to do
 ---------------------------
 * Install the VBoxLinuxAdditions
 * Update UseDNS to no in /etc/ssh/sshd_config
+
+
+
+Sources
+=======
+https://github.com/okfn/ckan/wiki/How-to-Create-a-CentOS-Vagrant-Base-Box
