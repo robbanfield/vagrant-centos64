@@ -1,3 +1,5 @@
+# ARCHIVED
+
 vagrant-centos64
 ================
 
